@@ -1,4 +1,4 @@
-# Analyze-data-set-from-Stack-Exchange-Using-Hive
+# Analyze-data-set-from-Stack-Exchange-Using-Pig
 The data set contains the following attributes:
 
 As part of a recruiting exercise, a major social media company asked candidates to analyze data set from Stack Exchange.
